@@ -36,7 +36,7 @@ This project uses dummy sales data for learning and portfolio demonstration purp
 
 The data does not represent verified real-world business transactions, so the dashboard is intended to demonstrate Excel skills rather than draw conclusions about an actual company's sales performance.
 
-**Dataset source:** [https://drive.google.com/uc?export=download&id=1xGf_x6awGWCArPPnaD1p2lt-CFG6f7mI]
+**Dataset source:** [Download the file](https://drive.google.com/uc?export=download&id=1xGf_x6awGWCArPPnaD1p2lt-CFG6f7mI)
 
 ## Key Learnings
 
